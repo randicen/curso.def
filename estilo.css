@@ -21,3 +21,8 @@ img {
     height: 300px;
     width: 300px;
 }
+
+video {
+    width: 50%;
+    height: 50%;
+}
