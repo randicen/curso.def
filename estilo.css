@@ -4,12 +4,20 @@ a {
 }
 
 main {
-    background-color:darkgray;
+    background-color:honeydew;
 
     width: 50%;
 }
 
 figure {
-    margin:0;
-    background-color: darkkhaki;
+    margin: 30px;
+    padding:30px;
+    padding-bottom: 10px;
+    width: 300px;
+    background-color: gainsboro;
+}
+
+img {
+    height: 300px;
+    width: 300px;
 }
